@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. 
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+# Chat Application 
+
+Explore this chat application project that I created in High School to combat the texting ban imposed by my school :)
+
+I mainly used Java (Networking and Sockets) and JavaFX (Front-end GUI) to create the application. 
+
+VERSION or DATE: 1.0
+AUTHORS: Shardul Bansal
